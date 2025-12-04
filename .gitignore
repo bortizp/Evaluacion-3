@@ -1,0 +1,4 @@
+facturacion_electrica.db
+datos_limpios.csv
+__pycache__/
+*.pyc
